@@ -37,6 +37,7 @@ if((((a%2)==0)&&((b%2)==0)&&((c%2)==0)&&((d%2)==0)&&((e%2)==0)&&((a+b+c+d+e)==10
      printf("\n\n        ------------------------     ");
      if(p==2)
      {
+
 	printf("\n\n B) Who is The Author of '' Glimpses  of World's history ''?");
 	printf("\n\n 1) Dr. APJ Abdul Kalam   2) Smt Pratibha Patil\n\n 3) jawaharlal nehru  4) S. Radhakrishnan");
 	 printf("\n\n Enter The Answer :");
